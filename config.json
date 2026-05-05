@@ -56,10 +56,6 @@
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "name": "魔都资源"
     },
-    "zuid": {
-      "api": "https://api.zuidapi.com/api.php/provide/vod",
-      "name": "最大资源"
-    },
     "yinghua": {
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
       "name": "樱花资源"
@@ -107,11 +103,6 @@
     "sb": {
       "api": "https://subocj.com/api.php/provide/vod",
       "name": "速播资源"
-    },
-    "hn": {
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
-      "name": "红牛资源"
-    }
   },
     "custom_category": [
     {
